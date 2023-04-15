@@ -16,7 +16,7 @@ const OnboardingScreen = (props: Props) => {
               className="w-72 h-72 object-contain"
             />
           ),
-          title: "Onboarding",
+          title: "Happy shopping",
           subtitle: "Done with react native onboading swiper",
         },
         {
@@ -27,7 +27,7 @@ const OnboardingScreen = (props: Props) => {
               className="w-72 h-72 object-contain"
             />
           ),
-          title: "Onboarding",
+          title: "Always here for you",
           subtitle: "Done with react native onboading swiper",
         },
         {
@@ -38,7 +38,7 @@ const OnboardingScreen = (props: Props) => {
               className="w-72 h-72 object-contain"
             />
           ),
-          title: "Onboarding",
+          title: "Happy services, happy customers",
           subtitle: "Done with react native onboading swiper",
         },
       ]}
