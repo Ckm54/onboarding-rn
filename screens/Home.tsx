@@ -1,13 +1,13 @@
-import { View, Text } from "react-native";
+import { Text, SafeAreaView } from "react-native";
 import React from "react";
 
 type Props = {};
 
 const Home = (props: Props) => {
   return (
-    <View>
+    <SafeAreaView>
       <Text>Home</Text>
-    </View>
+    </SafeAreaView>
   );
 };
 
